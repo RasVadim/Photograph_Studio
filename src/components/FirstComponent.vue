@@ -104,7 +104,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "FirstComponent",
   props: {
     msg: String
   }
